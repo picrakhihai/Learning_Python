@@ -1,0 +1,11 @@
+print("John: Hi Luke, long time since we talked last.")
+print("Luke: Hi John! How have you been?")
+print("John: I have been well. Do you wanna go get lunch")
+print("Luke: Yes!")
+print("John: Great, we can meet at In-n-Out burger next week")
+
+print("John: Hi James, long time since we talked last.")
+print("James: Hi John! How have you been?")
+print("John: I have been well. Do you wanna go get lunch")
+print("James: Yes!")
+print("John: Great, we can meet at In-n-Out burger next week")
